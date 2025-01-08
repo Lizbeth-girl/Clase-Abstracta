@@ -1,0 +1,8 @@
+ec\edu\espoch\abstracta\Abstracta.class
+ec\edu\espoch\abstracta\animales\Felinos.class
+ec\edu\espoch\abstracta\animales\Leones.class
+ec\edu\espoch\abstracta\animales\Lobos.class
+ec\edu\espoch\abstracta\animales\Animales.class
+ec\edu\espoch\abstracta\animales\Caninos.class
+ec\edu\espoch\abstracta\animales\Gatos.class
+ec\edu\espoch\abstracta\animales\Perros.class
